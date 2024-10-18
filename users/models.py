@@ -31,10 +31,9 @@ class User(AbstractBaseUser, PermissionsMixin):
     is_active = models.BooleanField(default=True)
     is_staff = models.BooleanField(default=False)
 
-    # Adding groups and permissions with custom related_name to avoid conflicts
     groups = models.ManyToManyField(
         Group,
-        related_name='custom_user_groups',  # Use a custom related_name to avoid conflict
+        related_name='custom_user_groups',  
         blank=True
     )
     user_permissions = models.ManyToManyField(
