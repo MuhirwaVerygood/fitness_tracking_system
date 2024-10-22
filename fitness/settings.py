@@ -15,6 +15,7 @@ import os
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+AUTH_USER_MODEL="users.User"
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
@@ -37,7 +38,13 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    "users"
+    "users",
+    "actvities",
+    "body_measurements",
+    "goals",
+    "meals",
+    "sleepings",
+    "workout"
 ]
 
 MIDDLEWARE = [
@@ -78,10 +85,10 @@ DATABASES={
     "default": {
     "ENGINE":"django.db.backends.postgresql",
     "NAME":"fitness_tracking_system",
-    "USER":"postgres",
+    "USER":"verygood",
     "PASSWORD":"1234",
     "HOST":"localhost",
-    "PORT":"5432",
+    "PORT":"5433",
     'OPTIONS': {
             'options': '-c timezone=UTC',
         },

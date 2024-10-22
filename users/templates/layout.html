@@ -1,0 +1,32 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>User Dashboard</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+<body>
+<nav class="navbar">
+    <div class="menu">
+        <a href="/">Home</a>
+        <a href="/users">Users</a>
+    </div>
+    <div class="brand-logo">
+        <img src="{% static 'brand_logo.png' %}" alt="Logo" class="logo-image">
+    </div>
+</nav>
+
+<main class="page-content">
+    {% block content %}{% endblock %}
+</main>
+
+<footer class="page-footer">
+    <p>&copy; 2024. All Rights Reserved.</p>
+</footer>
+
+<script src="{% static 'script.js' %}"></script>
+</body>
+</html>
