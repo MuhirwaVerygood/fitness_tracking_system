@@ -23,7 +23,8 @@ def generate_recommendations(activities):
     total_sleep = sum(activity.duration.total_seconds() for activity in activities if activity.activity_type == 'sleep')
     total_sport = sum(activity.duration.total_seconds() for activity in activities if activity.activity_type == 'sport')
 
-    # Assuming thresholds for recommendations
+
+    # assume recommendations
     if total_sleep < 8 * 3600:  # Less than 8 hours of sleep
         recommendations.append("Consider increasing your sleep duration for better health.")
     if total_sport < 150 * 60:  # Less than 150 minutes of sport per week
