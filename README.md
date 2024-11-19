@@ -43,7 +43,6 @@ The **Fitness Tracking System** is a web application that helps users manage and
 
 Here’s an overview of the directory structure for the **Fitness Tracking System** project:
 
-git tree
 .gitignore
 .idea
    |-- .gitignore
