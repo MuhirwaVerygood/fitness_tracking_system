@@ -188,10 +188,12 @@ To get a local copy of the **Fitness Tracking System** running, follow these ste
    python manage.py migrate
 
 5. Start the Django development server
+    Make sure you Visit http://127.0.0.1:8000/register in your browser to begin  registration after running the server.
+
    ```bash
    python manage.py runserver
 
-Visit http://127.0.0.1:8000/register in your browser to begin  registration.
+
 6. Insert random activities data
    ```bash
    python manage.py insert_random_activities
