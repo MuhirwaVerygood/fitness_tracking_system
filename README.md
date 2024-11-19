@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [License](#license)
+- [Fitness Tracking System](#fitness-tracking-system)
+  - [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Project Structure](#project-structure)
+  - [Getting Started](#getting-started)
 
 ---
 
@@ -43,11 +43,129 @@ The **Fitness Tracking System** is a web application that helps users manage and
 
 Here’s an overview of the directory structure for the **Fitness Tracking System** project:
 
-fitness_tracking_system/ ├── .idea/ # IDE configuration files ├── .vscode/ # VS Code configuration files ├── activityapp/ # Main app for activity-related features │ ├── management/ # Custom management commands │ ├── migrations/ # Database migration files │ ├── pycache/ # Cached Python files │ ├── admin.py # Admin configuration for activity app │ ├── apps.py # App configuration │ ├── forms.py # Forms for activity-related inputs │ ├── models.py # Models for activity-related data │ ├── tests.py # Test cases for activity app │ ├── urls.py # URL routing for activity app │ └── views.py # Views for rendering activity-related data ├── fitness/ # Main app for fitness tracking features │ ├── pycache/ # Cached Python files │ ├── asgi.py # ASGI configuration │ ├── settings.py # Django settings │ ├── urls.py # URL routing for fitness app │ └── wsgi.py # WSGI configuration ├── userapp/ # App for user-related features │ ├── migrations/ # Database migration files │ ├── pycache/ # Cached Python files │ ├── admin.py # Admin configuration for user app │ ├── apps.py # App configuration │ ├── forms.py # Forms for user-related inputs │ ├── models.py # Models for user-related data │ ├── tests.py # Test cases for user app │ ├── urls.py # URL routing for user app │ └── views.py # Views for rendering user-related data ├── .gitignore # Git ignore rules ├── db.sqlite3 # SQLite database (if used locally) ├── duration_summary.csv # CSV file for duration summary ├── manage.py # Django project management file ├── merged_activities.csv # CSV file for merged activity data ├── README.md # Project documentation ├── requirements.txt # Python dependencies └── sport_activities.csv # CSV file for sport activities data
+git tree
+.gitignore
+.idea
+   |-- .gitignore
+   |-- fitness_tracking_system.iml
+   |-- inspectionProfiles
+   |   |-- Project_Default.xml
+   |   |-- profiles_settings.xml
+   |-- misc.xml
+   |-- modules.xml
+.vscode
+   |-- settings.json
+README.md
+activityapp
+   |-- __init__.py
+   |-- __pycache__
+   |   |-- __init__.cpython-311.pyc
+   |   |-- __init__.cpython-313.pyc
+   |   |-- admin.cpython-311.pyc
+   |   |-- admin.cpython-313.pyc
+   |   |-- apps.cpython-311.pyc
+   |   |-- apps.cpython-313.pyc
+   |   |-- forms.cpython-311.pyc
+   |   |-- forms.cpython-313.pyc
+   |   |-- models.cpython-311.pyc
+   |   |-- models.cpython-313.pyc
+   |   |-- urls.cpython-311.pyc
+   |   |-- urls.cpython-313.pyc
+   |   |-- views.cpython-311.pyc
+   |   |-- views.cpython-313.pyc
+   |-- admin.py
+   |-- apps.py
+   |-- forms.py
+   |-- management
+   |   |-- commands
+   |   |   |-- __pycache__
+   |   |   |   |-- extract_activities.cpython-313.pyc
+   |   |   |   |-- insert_random_activities.cpython-313.pyc
+   |   |   |-- extract_activities.py
+   |   |   |-- insert_random_activities.py
+   |-- migrations
+   |   |-- 0001_initial.py
+   |   |-- 0002_activity_activity_type.py
+   |   |-- 0003_recommendation.py
+   |   |-- __init__.py
+   |   |-- __pycache__
+   |   |   |-- 0001_initial.cpython-311.pyc
+   |   |   |-- 0001_initial.cpython-313.pyc
+   |   |   |-- 0002_activity_activity_type.cpython-311.pyc
+   |   |   |-- 0002_activity_activity_type.cpython-313.pyc
+   |   |   |-- 0003_recommendation.cpython-313.pyc
+   |   |   |-- __init__.cpython-311.pyc
+   |   |   |-- __init__.cpython-313.pyc
+   |-- models.py
+   |-- tests.py
+   |-- urls.py
+   |-- views.py
+db.sqlite3
+duration_summary.csv
+fitness
+   |-- __init__.py
+   |-- __pycache__
+   |   |-- __init__.cpython-311.pyc
+   |   |-- __init__.cpython-313.pyc
+   |   |-- settings.cpython-311.pyc
+   |   |-- settings.cpython-313.pyc
+   |   |-- urls.cpython-311.pyc
+   |   |-- urls.cpython-313.pyc
+   |   |-- wsgi.cpython-311.pyc
+   |   |-- wsgi.cpython-313.pyc
+   |-- asgi.py
+   |-- settings.py
+   |-- urls.py
+   |-- wsgi.py
+manage.py
+merged_activities.csv
+requirements.txt
+sport_activities.csv
+templates
+   |-- activityapp
+   |   |-- activity_confirm_delete.html
+   |   |-- activity_form.html
+   |   |-- activity_list.html
+   |-- base.html
+   |-- insert_random_activities.py
+   |-- userapp
+   |   |-- login.html
+   |   |-- register.html
+userapp
+   |-- __init__.py
+   |-- __pycache__
+   |   |-- __init__.cpython-311.pyc
+   |   |-- __init__.cpython-313.pyc
+   |   |-- admin.cpython-311.pyc
+   |   |-- admin.cpython-313.pyc
+   |   |-- apps.cpython-311.pyc
+   |   |-- apps.cpython-313.pyc
+   |   |-- forms.cpython-311.pyc
+   |   |-- forms.cpython-313.pyc
+   |   |-- models.cpython-311.pyc
+   |   |-- models.cpython-313.pyc
+   |   |-- urls.cpython-311.pyc
+   |   |-- urls.cpython-313.pyc
+   |   |-- views.cpython-311.pyc
+   |   |-- views.cpython-313.pyc
+   |-- admin.py
+   |-- apps.py
+   |-- forms.py
+   |-- migrations
+   |   |-- 0001_initial.py
+   |   |-- __init__.py
+   |   |-- __pycache__
+   |   |   |-- 0001_initial.cpython-311.pyc
+   |   |   |-- 0001_initial.cpython-313.pyc
+   |   |   |-- __init__.cpython-311.pyc
+   |   |   |-- __init__.cpython-313.pyc
+   |-- models.py
+   |-- tests.py
+   |-- urls.py
+   |-- views.py
 
 
-
-This structure gives a clear overview of the project organization, with directories for apps (activityapp, fitness, and userapp) and configuration files. Each app contains its own migrations, views, models, forms, etc., for modular development. The root directory includes essential files like `manage.py`, `requirements.txt`, and `README.md`.
+This structure gives a clear overview of the project organization, with directories for apps (activityapp, fitness, and userapp) and configuration files. Each app contains its own migrations, views, models, forms, etc., for modular development. The root directory includes essential files like `manage.py`, `requirements.txt`, and `README.md`. However those csv files will come after extracting_activities as shown below
 
 ---
 
@@ -75,3 +193,9 @@ To get a local copy of the **Fitness Tracking System** running, follow these ste
    python manage.py runserver
 
 Visit http://127.0.0.1:8000/register in your browser to begin  registration.
+6. Insert random activities data
+   ```bash
+   python manage.py insert_random_activities
+7. Export your data into CSV file 
+   ```bash
+   python manage.py extract_activities   
