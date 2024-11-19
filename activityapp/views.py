@@ -3,6 +3,7 @@ from .models import Activity
 from django.core.paginator import Paginator
 from .forms import  ActivityForm
 
+
 def activity_list(request):
     activities = Activity.objects.filter(user=request.user)
     paginator = Paginator(activities, 20)  

@@ -1,0 +1,501 @@
+id,name,duration,date,activity_type
+1,Working on project,0 days 03:20:28,2024-04-18,leisure
+2,Sleeping,0 days 01:12:13,2021-08-09,work
+3,Reading,0 days 02:31:14,2021-08-14,leisure
+4,Running,0 days 02:53:34,2024-07-12,work
+5,Running,0 days 02:34:57,2024-01-27,work
+6,Running,0 days 02:46:55,2024-06-14,work
+7,Sleeping,0 days 01:06:16,2020-04-21,sleep
+8,Watching TV,0 days 03:56:02,2021-01-22,sleep
+9,Walking,0 days 02:31:12,2021-04-19,work
+10,Sleeping,0 days 02:49:50,2023-02-19,leisure
+11,Working on project,0 days 03:05:03,2023-12-17,leisure
+12,Reading,0 days 02:12:43,2023-08-11,sleep
+13,Walking,0 days 02:06:45,2021-06-23,sleep
+14,Cycling,0 days 02:27:21,2023-10-03,sport
+15,Walking,0 days 03:55:56,2023-12-19,sleep
+16,Sleeping,0 days 01:31:20,2022-06-14,sleep
+17,Sleeping,0 days 03:34:13,2024-12-02,leisure
+18,Guitar practice,0 days 03:58:43,2023-09-27,sleep
+19,Sleeping,0 days 01:02:05,2020-05-10,sleep
+20,Reading,0 days 02:47:26,2024-07-24,work
+21,Jogging,0 days 02:11:07,2021-12-23,work
+22,Running,0 days 01:42:45,2021-01-12,work
+23,Yoga,0 days 02:39:25,2022-12-25,sport
+24,Cooking,0 days 01:14:18,2023-04-27,work
+25,Meditation,0 days 03:16:40,2023-03-15,sport
+26,Working on project,0 days 01:07:32,2022-05-10,work
+27,Guitar practice,0 days 02:39:25,2023-01-11,work
+28,Jogging,0 days 02:43:16,2021-03-09,sleep
+29,Watching TV,0 days 02:28:15,2024-06-27,sleep
+30,Jogging,0 days 03:40:19,2020-07-15,sport
+31,Running,0 days 01:10:31,2023-08-07,work
+32,Swimming,0 days 02:51:13,2024-08-20,leisure
+33,Meditation,0 days 02:06:20,2022-05-27,sport
+34,Walking,0 days 02:48:01,2020-09-27,leisure
+35,Jogging,0 days 02:43:17,2020-02-28,work
+36,Swimming,0 days 03:51:06,2022-06-28,work
+37,Yoga,0 days 03:12:53,2023-08-27,leisure
+38,Walking,0 days 01:49:37,2024-03-03,leisure
+39,Watching TV,0 days 03:15:41,2021-06-01,sport
+40,Cycling,0 days 01:08:05,2023-07-19,leisure
+41,Working on project,0 days 03:23:18,2022-11-07,sleep
+42,Working on project,0 days 02:28:43,2023-09-10,leisure
+43,Swimming,0 days 03:44:40,2024-09-21,sleep
+44,Meditation,0 days 03:42:37,2023-11-04,sleep
+45,Walking,0 days 01:12:28,2023-05-28,sport
+46,Sleeping,0 days 02:10:07,2021-07-09,leisure
+47,Jogging,0 days 02:22:00,2022-05-25,sleep
+48,Running,0 days 03:05:12,2023-03-24,leisure
+49,Meditation,0 days 02:43:48,2024-02-25,sleep
+50,Sleeping,0 days 01:52:18,2023-09-04,sport
+51,Running,0 days 01:10:50,2023-12-18,work
+52,Guitar practice,0 days 02:38:14,2021-07-28,leisure
+53,Jogging,0 days 01:26:03,2021-09-11,work
+54,Sleeping,0 days 02:29:23,2024-08-17,sport
+55,Working on project,0 days 02:57:03,2020-05-28,sleep
+56,Swimming,0 days 03:43:10,2021-08-24,leisure
+57,Meditation,0 days 01:38:25,2020-11-01,leisure
+58,Sleeping,0 days 01:06:44,2023-06-08,work
+59,Running,0 days 01:12:30,2024-01-25,work
+60,Cooking,0 days 02:47:24,2024-12-02,leisure
+61,Guitar practice,0 days 01:55:13,2021-06-18,work
+62,Guitar practice,0 days 03:06:36,2022-09-04,leisure
+63,Watching TV,0 days 02:33:55,2024-04-28,sport
+64,Jogging,0 days 03:19:25,2023-08-16,sport
+65,Sleeping,0 days 03:24:58,2024-03-26,sport
+66,Cycling,0 days 03:46:27,2022-02-04,leisure
+67,Cycling,0 days 03:05:10,2021-01-27,work
+68,Reading,0 days 01:12:01,2020-09-05,sleep
+69,Running,0 days 03:30:00,2024-08-28,leisure
+70,Cycling,0 days 03:01:56,2024-08-09,sleep
+71,Jogging,0 days 03:42:14,2022-12-15,sleep
+72,Working on project,0 days 01:46:26,2022-08-19,sleep
+73,Cycling,0 days 01:25:18,2021-06-06,sleep
+74,Running,0 days 02:40:33,2021-01-01,sleep
+75,Sleeping,0 days 02:08:24,2020-11-20,work
+76,Jogging,0 days 02:43:51,2022-11-02,work
+77,Jogging,0 days 01:04:55,2024-11-23,sleep
+78,Walking,0 days 01:13:18,2024-10-25,work
+79,Cooking,0 days 03:40:07,2022-02-15,sport
+80,Running,0 days 03:50:09,2021-04-14,sport
+81,Guitar practice,0 days 03:31:05,2023-06-25,leisure
+82,Guitar practice,0 days 03:24:37,2024-06-27,work
+83,Guitar practice,0 days 01:45:08,2023-04-22,leisure
+84,Walking,0 days 02:20:40,2022-10-09,sleep
+85,Reading,0 days 01:02:02,2023-09-27,sport
+86,Guitar practice,0 days 03:14:52,2020-07-21,leisure
+87,Sleeping,0 days 01:21:24,2021-11-10,work
+88,Working on project,0 days 03:25:36,2024-08-14,leisure
+89,Reading,0 days 02:36:34,2021-01-22,sport
+90,Guitar practice,0 days 02:51:33,2024-06-26,leisure
+91,Walking,0 days 03:39:28,2023-11-26,work
+92,Working on project,0 days 01:51:16,2020-07-24,leisure
+93,Walking,0 days 02:11:31,2020-02-14,leisure
+94,Meditation,0 days 03:07:39,2024-06-12,work
+95,Jogging,0 days 01:06:39,2022-11-14,work
+96,Cycling,0 days 01:30:00,2024-12-28,work
+97,Sleeping,0 days 03:14:12,2022-12-17,sleep
+98,Working on project,0 days 02:30:59,2021-06-28,leisure
+99,Swimming,0 days 01:37:53,2022-02-03,sport
+100,Sleeping,0 days 01:28:14,2020-10-28,sleep
+101,Working on project,0 days 01:16:17,2023-07-14,work
+102,Cooking,0 days 02:11:21,2024-06-25,leisure
+103,Cycling,0 days 03:09:22,2023-05-10,leisure
+104,Meditation,0 days 01:13:30,2023-02-09,sleep
+105,Working on project,0 days 02:09:23,2022-02-07,sport
+106,Cooking,0 days 03:59:14,2024-08-19,work
+107,Running,0 days 03:04:04,2023-12-23,sport
+108,Jogging,0 days 01:12:31,2020-06-27,sleep
+109,Jogging,0 days 03:29:20,2020-01-08,work
+110,Running,0 days 03:53:08,2021-02-26,sleep
+111,Walking,0 days 02:36:19,2024-08-28,sport
+112,Walking,0 days 03:14:07,2022-02-18,sleep
+113,Swimming,0 days 01:55:55,2023-05-18,leisure
+114,Cycling,0 days 02:26:08,2024-06-03,sleep
+115,Guitar practice,0 days 02:40:56,2024-04-09,sleep
+116,Reading,0 days 01:04:24,2022-08-28,sleep
+117,Watching TV,0 days 02:53:17,2021-01-08,sport
+118,Walking,0 days 03:06:24,2024-08-09,leisure
+119,Yoga,0 days 01:01:34,2023-09-06,sleep
+120,Swimming,0 days 03:56:43,2022-02-13,sport
+121,Cycling,0 days 01:41:49,2023-09-09,leisure
+122,Walking,0 days 03:25:45,2020-09-22,sport
+123,Reading,0 days 03:07:31,2021-10-14,sleep
+124,Guitar practice,0 days 02:39:05,2020-08-14,leisure
+125,Working on project,0 days 01:19:26,2022-04-16,sleep
+126,Cycling,0 days 03:55:37,2024-08-01,sport
+127,Guitar practice,0 days 02:01:54,2023-07-08,leisure
+128,Reading,0 days 03:37:13,2020-08-08,sport
+129,Cooking,0 days 03:51:21,2024-12-11,work
+130,Watching TV,0 days 02:17:41,2021-05-17,work
+131,Reading,0 days 01:13:13,2022-07-12,work
+132,Running,0 days 03:40:13,2023-09-12,sport
+133,Swimming,0 days 02:33:58,2020-11-18,leisure
+134,Yoga,0 days 03:55:38,2021-10-02,sleep
+135,Swimming,0 days 03:55:32,2022-05-17,work
+136,Cooking,0 days 03:35:13,2020-08-17,work
+137,Working on project,0 days 02:24:33,2021-09-28,leisure
+138,Meditation,0 days 03:21:21,2021-11-01,sport
+139,Running,0 days 02:20:57,2021-08-13,leisure
+140,Sleeping,0 days 03:26:32,2021-03-19,leisure
+141,Reading,0 days 02:46:29,2022-02-24,work
+142,Watching TV,0 days 03:36:09,2020-07-19,work
+143,Jogging,0 days 01:07:25,2023-09-02,sleep
+144,Swimming,0 days 01:28:42,2021-06-23,work
+145,Swimming,0 days 02:20:14,2021-08-19,leisure
+146,Watching TV,0 days 03:22:25,2023-11-07,work
+147,Meditation,0 days 03:07:55,2023-09-13,work
+148,Sleeping,0 days 02:08:44,2021-07-22,leisure
+149,Guitar practice,0 days 02:22:30,2024-10-20,sport
+150,Meditation,0 days 02:10:17,2022-01-02,sport
+151,Swimming,0 days 01:56:37,2023-10-23,work
+152,Working on project,0 days 02:12:15,2020-02-28,leisure
+153,Cooking,0 days 03:29:23,2020-08-17,sleep
+154,Watching TV,0 days 01:44:44,2023-01-11,leisure
+155,Sleeping,0 days 01:41:40,2024-06-25,work
+156,Meditation,0 days 01:49:31,2020-08-17,sleep
+157,Watching TV,0 days 01:25:00,2021-11-23,work
+158,Cooking,0 days 01:33:21,2020-12-27,sport
+159,Swimming,0 days 02:52:50,2020-08-23,sleep
+160,Cycling,0 days 03:56:56,2024-04-07,work
+161,Yoga,0 days 03:56:13,2022-06-09,leisure
+162,Cooking,0 days 01:34:09,2022-01-15,sleep
+163,Meditation,0 days 03:09:30,2024-07-21,leisure
+164,Walking,0 days 01:44:14,2022-11-17,leisure
+165,Running,0 days 02:55:45,2022-02-12,leisure
+166,Walking,0 days 02:31:14,2022-02-04,sleep
+167,Swimming,0 days 03:45:03,2021-07-15,sleep
+168,Running,0 days 02:19:42,2022-08-19,sport
+169,Meditation,0 days 02:50:12,2022-09-08,work
+170,Running,0 days 03:29:19,2024-10-16,sleep
+171,Swimming,0 days 02:14:55,2022-06-10,sport
+172,Yoga,0 days 02:57:42,2021-07-09,work
+173,Cycling,0 days 02:13:10,2024-05-08,sport
+174,Meditation,0 days 02:25:56,2024-10-04,leisure
+175,Walking,0 days 02:33:47,2021-03-22,work
+176,Working on project,0 days 01:02:06,2020-07-25,leisure
+177,Sleeping,0 days 01:56:45,2020-01-16,work
+178,Meditation,0 days 02:48:09,2024-10-17,sport
+179,Meditation,0 days 02:30:18,2024-03-18,sport
+180,Meditation,0 days 01:35:43,2020-11-22,work
+181,Swimming,0 days 01:26:41,2023-04-17,work
+182,Jogging,0 days 01:44:11,2022-06-09,sleep
+183,Running,0 days 01:39:27,2021-09-11,sport
+184,Cycling,0 days 01:21:13,2022-02-12,sport
+185,Jogging,0 days 02:46:37,2023-02-23,sleep
+186,Running,0 days 02:38:35,2021-03-18,leisure
+187,Meditation,0 days 01:35:16,2021-06-10,sleep
+188,Yoga,0 days 01:32:38,2021-04-12,sport
+189,Yoga,0 days 02:50:04,2023-04-09,sleep
+190,Cooking,0 days 01:18:50,2022-12-19,leisure
+191,Cooking,0 days 02:02:41,2021-11-20,sleep
+192,Yoga,0 days 02:22:49,2021-04-27,leisure
+193,Sleeping,0 days 03:24:30,2022-08-11,leisure
+194,Yoga,0 days 02:32:18,2020-03-24,sleep
+195,Cycling,0 days 03:18:52,2024-08-28,leisure
+196,Working on project,0 days 03:24:00,2023-11-11,work
+197,Walking,0 days 03:51:34,2022-09-27,work
+198,Jogging,0 days 03:53:22,2022-10-26,work
+199,Walking,0 days 02:28:48,2021-03-25,leisure
+200,Sleeping,0 days 02:57:46,2021-08-22,work
+201,Sleeping,0 days 01:24:50,2024-09-12,leisure
+202,Cooking,0 days 02:25:36,2020-02-21,sleep
+203,Running,0 days 01:47:29,2022-06-18,leisure
+204,Running,0 days 03:37:59,2022-02-26,sport
+205,Reading,0 days 02:16:56,2022-08-27,sleep
+206,Sleeping,0 days 01:20:11,2022-09-06,sleep
+207,Cooking,0 days 01:12:37,2022-08-07,work
+208,Walking,0 days 02:46:29,2022-10-09,sleep
+209,Reading,0 days 02:37:03,2022-11-06,sleep
+210,Reading,0 days 03:03:24,2020-03-01,sleep
+211,Yoga,0 days 01:59:18,2024-01-25,sport
+212,Jogging,0 days 03:45:51,2020-10-12,sleep
+213,Cycling,0 days 03:14:11,2022-04-11,sport
+214,Reading,0 days 03:18:14,2022-04-23,work
+215,Guitar practice,0 days 02:45:17,2022-02-21,sport
+216,Cycling,0 days 02:17:16,2021-07-09,work
+217,Cooking,0 days 03:43:46,2024-06-21,work
+218,Walking,0 days 03:59:50,2022-07-25,work
+219,Sleeping,0 days 02:52:15,2023-10-17,work
+220,Walking,0 days 02:26:32,2020-07-10,work
+221,Reading,0 days 03:43:15,2024-08-13,sport
+222,Swimming,0 days 02:09:38,2023-01-16,work
+223,Cooking,0 days 01:56:05,2021-12-16,leisure
+224,Swimming,0 days 01:37:01,2024-01-27,work
+225,Walking,0 days 03:42:49,2024-04-03,leisure
+226,Cycling,0 days 02:47:14,2021-05-07,sleep
+227,Guitar practice,0 days 03:15:10,2024-03-21,sleep
+228,Yoga,0 days 01:00:59,2023-10-13,work
+229,Jogging,0 days 02:51:05,2023-10-15,sport
+230,Walking,0 days 03:58:20,2020-11-03,sport
+231,Reading,0 days 01:25:32,2021-07-13,sleep
+232,Reading,0 days 02:06:56,2023-08-09,sleep
+233,Jogging,0 days 03:50:41,2021-09-05,sleep
+234,Running,0 days 03:00:35,2023-08-26,sport
+235,Walking,0 days 03:31:55,2024-12-15,leisure
+236,Cycling,0 days 03:40:33,2020-03-15,leisure
+237,Reading,0 days 03:33:14,2022-04-05,work
+238,Sleeping,0 days 02:58:55,2021-06-16,leisure
+239,Cooking,0 days 01:57:46,2020-09-28,leisure
+240,Running,0 days 01:57:01,2020-05-03,sport
+241,Cycling,0 days 01:15:49,2022-11-25,work
+242,Yoga,0 days 03:04:27,2022-03-08,sleep
+243,Guitar practice,0 days 03:35:40,2020-09-03,leisure
+244,Walking,0 days 01:39:00,2024-10-14,leisure
+245,Sleeping,0 days 01:08:08,2022-06-11,leisure
+246,Working on project,0 days 03:50:11,2023-04-13,sport
+247,Cycling,0 days 01:33:01,2021-04-13,work
+248,Swimming,0 days 03:20:33,2023-11-15,leisure
+249,Sleeping,0 days 01:06:21,2024-08-04,sleep
+250,Cooking,0 days 01:42:15,2024-07-28,sleep
+251,Guitar practice,0 days 03:18:47,2023-05-14,work
+252,Watching TV,0 days 03:10:21,2023-09-27,leisure
+253,Working on project,0 days 01:36:13,2021-11-19,leisure
+254,Swimming,0 days 01:59:15,2022-08-13,sleep
+255,Cooking,0 days 02:29:50,2024-02-09,leisure
+256,Yoga,0 days 02:20:54,2021-07-14,work
+257,Jogging,0 days 02:04:55,2023-07-18,sleep
+258,Running,0 days 03:44:35,2023-07-15,sleep
+259,Yoga,0 days 03:32:05,2021-08-07,sleep
+260,Swimming,0 days 03:07:41,2021-01-16,leisure
+261,Walking,0 days 01:50:47,2023-10-04,leisure
+262,Reading,0 days 01:41:53,2023-04-06,sport
+263,Guitar practice,0 days 03:50:32,2020-11-03,sport
+264,Yoga,0 days 01:07:05,2021-12-20,leisure
+265,Working on project,0 days 03:18:16,2023-04-10,work
+266,Cooking,0 days 03:38:34,2022-01-04,sport
+267,Walking,0 days 03:08:29,2024-05-06,sport
+268,Running,0 days 03:01:41,2021-02-17,sleep
+269,Watching TV,0 days 02:26:20,2023-10-16,work
+270,Walking,0 days 01:35:50,2022-09-08,sleep
+271,Working on project,0 days 03:09:01,2022-08-03,sleep
+272,Reading,0 days 03:49:23,2023-01-18,work
+273,Running,0 days 01:00:59,2024-07-13,sleep
+274,Swimming,0 days 01:44:27,2024-02-18,sleep
+275,Swimming,0 days 03:27:05,2022-02-22,work
+276,Working on project,0 days 03:45:46,2021-10-15,work
+277,Walking,0 days 02:52:31,2024-02-22,sport
+278,Yoga,0 days 03:28:17,2021-07-03,work
+279,Running,0 days 03:59:25,2024-01-19,sleep
+280,Walking,0 days 01:48:04,2024-05-09,work
+281,Walking,0 days 03:25:42,2021-01-03,sleep
+282,Jogging,0 days 03:37:15,2024-10-02,work
+283,Swimming,0 days 03:59:28,2021-09-26,sleep
+284,Reading,0 days 01:51:12,2023-12-20,leisure
+285,Cycling,0 days 02:23:14,2023-06-15,work
+286,Cycling,0 days 03:08:05,2020-03-27,leisure
+287,Walking,0 days 01:29:07,2024-08-07,work
+288,Cycling,0 days 01:06:44,2023-02-19,sport
+289,Running,0 days 02:27:24,2024-03-06,sport
+290,Reading,0 days 01:49:32,2020-04-07,sport
+291,Cycling,0 days 03:25:14,2023-09-11,sleep
+292,Reading,0 days 01:55:32,2024-11-12,sport
+293,Working on project,0 days 03:59:10,2020-01-12,work
+294,Swimming,0 days 03:16:09,2024-06-08,sport
+295,Working on project,0 days 02:59:55,2023-10-18,sleep
+296,Meditation,0 days 02:26:57,2020-06-14,leisure
+297,Watching TV,0 days 01:19:44,2021-12-11,work
+298,Swimming,0 days 01:48:53,2021-11-12,sport
+299,Sleeping,0 days 03:36:51,2020-08-02,sport
+300,Running,0 days 01:58:58,2020-04-14,work
+301,Guitar practice,0 days 02:54:55,2024-05-02,leisure
+302,Walking,0 days 01:52:36,2020-09-28,leisure
+303,Yoga,0 days 03:24:17,2023-05-06,leisure
+304,Sleeping,0 days 02:07:45,2021-11-01,sport
+305,Guitar practice,0 days 03:07:40,2020-02-05,leisure
+306,Swimming,0 days 02:00:44,2020-07-12,leisure
+307,Swimming,0 days 02:02:35,2023-07-13,sleep
+308,Meditation,0 days 03:47:39,2023-12-14,sport
+309,Meditation,0 days 03:51:26,2024-01-14,leisure
+310,Meditation,0 days 02:45:05,2023-06-06,sport
+311,Jogging,0 days 02:09:01,2024-09-19,sleep
+312,Reading,0 days 01:45:51,2020-10-27,sport
+313,Walking,0 days 01:00:31,2024-07-22,sleep
+314,Guitar practice,0 days 01:04:56,2020-10-17,sleep
+315,Yoga,0 days 02:41:21,2021-03-18,work
+316,Yoga,0 days 02:37:57,2021-04-23,work
+317,Reading,0 days 03:25:32,2024-08-22,sleep
+318,Swimming,0 days 03:59:44,2021-03-07,leisure
+319,Sleeping,0 days 01:56:38,2023-04-14,leisure
+320,Swimming,0 days 03:07:36,2022-08-21,leisure
+321,Walking,0 days 01:36:58,2020-04-20,sleep
+322,Swimming,0 days 02:19:46,2020-04-24,sport
+323,Cycling,0 days 01:02:48,2021-09-15,sport
+324,Meditation,0 days 01:45:47,2020-10-18,work
+325,Jogging,0 days 01:58:43,2024-08-16,sleep
+326,Guitar practice,0 days 03:39:38,2020-05-18,sport
+327,Walking,0 days 02:46:23,2022-08-05,work
+328,Reading,0 days 02:31:06,2022-02-05,work
+329,Working on project,0 days 01:19:32,2023-02-20,sport
+330,Swimming,0 days 03:14:49,2023-02-14,sport
+331,Yoga,0 days 02:07:47,2022-05-17,sport
+332,Swimming,0 days 01:42:39,2020-08-25,work
+333,Running,0 days 01:24:59,2023-06-07,sport
+334,Meditation,0 days 03:47:57,2023-08-15,leisure
+335,Reading,0 days 02:56:51,2020-03-11,work
+336,Reading,0 days 03:12:52,2022-12-25,work
+337,Swimming,0 days 03:07:47,2022-03-19,sleep
+338,Watching TV,0 days 03:21:42,2023-10-20,leisure
+339,Reading,0 days 01:24:52,2022-07-17,sport
+340,Cooking,0 days 02:38:38,2024-06-03,sport
+341,Watching TV,0 days 03:55:39,2024-10-20,work
+342,Yoga,0 days 02:49:43,2022-10-04,sport
+343,Cycling,0 days 02:19:41,2021-08-26,sport
+344,Running,0 days 03:17:36,2021-01-19,work
+345,Walking,0 days 01:54:40,2024-02-14,leisure
+346,Reading,0 days 02:11:09,2021-01-16,sport
+347,Running,0 days 02:44:43,2023-01-08,leisure
+348,Meditation,0 days 03:18:35,2024-08-28,leisure
+349,Guitar practice,0 days 03:37:05,2021-02-18,work
+350,Jogging,0 days 01:57:55,2021-06-17,sport
+351,Meditation,0 days 02:40:35,2024-11-02,leisure
+352,Watching TV,0 days 01:47:51,2022-07-09,work
+353,Watching TV,0 days 01:44:59,2021-11-20,work
+354,Walking,0 days 01:27:44,2021-03-25,sleep
+355,Running,0 days 01:37:57,2022-03-26,leisure
+356,Swimming,0 days 03:38:24,2022-02-19,sleep
+357,Reading,0 days 01:05:56,2021-11-10,leisure
+358,Meditation,0 days 02:49:51,2022-02-15,sleep
+359,Reading,0 days 03:47:54,2023-07-01,sport
+360,Swimming,0 days 03:27:02,2021-06-19,sport
+361,Reading,0 days 03:32:52,2023-12-11,sleep
+362,Meditation,0 days 03:45:07,2024-12-10,sleep
+363,Swimming,0 days 02:20:16,2022-11-01,work
+364,Yoga,0 days 01:37:19,2024-03-17,sleep
+365,Yoga,0 days 02:06:18,2022-08-03,leisure
+366,Walking,0 days 01:29:10,2023-09-13,sleep
+367,Running,0 days 03:27:43,2023-06-15,sport
+368,Reading,0 days 03:21:00,2021-09-12,leisure
+369,Cycling,0 days 03:04:33,2020-04-25,leisure
+370,Watching TV,0 days 03:55:20,2022-07-09,work
+371,Cycling,0 days 02:40:59,2024-06-08,work
+372,Jogging,0 days 01:45:09,2024-10-25,leisure
+373,Cycling,0 days 01:28:54,2022-06-24,leisure
+374,Sleeping,0 days 03:53:53,2023-07-16,sleep
+375,Guitar practice,0 days 01:39:50,2022-12-24,sport
+376,Swimming,0 days 02:28:11,2023-03-05,leisure
+377,Guitar practice,0 days 02:15:49,2024-09-18,work
+378,Watching TV,0 days 03:20:47,2021-12-15,sport
+379,Walking,0 days 01:05:00,2024-04-05,leisure
+380,Jogging,0 days 03:43:54,2023-09-05,leisure
+381,Walking,0 days 03:33:20,2022-03-10,work
+382,Swimming,0 days 03:28:55,2021-04-22,sport
+383,Running,0 days 03:16:47,2021-10-17,work
+384,Meditation,0 days 03:25:01,2024-08-13,sleep
+385,Cooking,0 days 02:55:31,2022-12-08,sport
+386,Reading,0 days 03:05:59,2023-09-16,leisure
+387,Jogging,0 days 03:58:56,2023-03-25,leisure
+388,Meditation,0 days 02:17:46,2020-02-23,sport
+389,Walking,0 days 03:52:46,2023-06-23,work
+390,Cooking,0 days 01:55:22,2021-03-23,sleep
+391,Jogging,0 days 01:21:45,2023-08-07,leisure
+392,Sleeping,0 days 01:34:06,2020-12-21,leisure
+393,Sleeping,0 days 02:55:50,2022-02-27,sport
+394,Meditation,0 days 01:41:17,2021-12-03,sleep
+395,Walking,0 days 02:32:25,2023-01-14,work
+396,Cycling,0 days 01:53:54,2020-07-15,sleep
+397,Guitar practice,0 days 02:38:58,2020-09-19,leisure
+398,Guitar practice,0 days 03:57:36,2024-08-15,leisure
+399,Sleeping,0 days 02:11:09,2024-10-19,leisure
+400,Sleeping,0 days 02:55:17,2021-03-08,sleep
+401,Working on project,0 days 03:23:32,2024-04-15,leisure
+402,Yoga,0 days 01:44:20,2023-01-27,sleep
+403,Meditation,0 days 01:03:43,2021-09-01,work
+404,Jogging,0 days 01:52:41,2021-10-23,sport
+405,Working on project,0 days 03:58:58,2022-12-08,work
+406,Guitar practice,0 days 03:26:54,2021-10-28,sport
+407,Guitar practice,0 days 01:18:05,2021-04-27,leisure
+408,Meditation,0 days 03:00:40,2023-03-08,leisure
+409,Watching TV,0 days 01:45:27,2024-09-16,leisure
+410,Meditation,0 days 03:39:33,2024-03-05,sport
+411,Running,0 days 01:33:51,2020-03-26,sleep
+412,Walking,0 days 02:41:56,2022-01-02,work
+413,Sleeping,0 days 02:00:15,2020-07-08,sport
+414,Watching TV,0 days 02:47:39,2020-04-02,sleep
+415,Working on project,0 days 02:18:57,2023-08-09,work
+416,Jogging,0 days 02:43:28,2022-08-04,sleep
+417,Sleeping,0 days 01:41:24,2024-05-24,sport
+418,Reading,0 days 03:30:27,2023-05-11,sport
+419,Sleeping,0 days 01:49:19,2024-05-16,work
+420,Reading,0 days 02:22:35,2021-02-27,sport
+421,Watching TV,0 days 01:22:55,2023-09-05,sport
+422,Cooking,0 days 03:56:01,2024-05-04,leisure
+423,Walking,0 days 03:44:44,2023-01-08,sleep
+424,Yoga,0 days 02:03:20,2021-09-12,sport
+425,Sleeping,0 days 03:58:13,2021-06-06,leisure
+426,Working on project,0 days 03:14:02,2023-04-27,sleep
+427,Reading,0 days 02:01:45,2024-10-04,sport
+428,Reading,0 days 03:21:04,2023-09-01,leisure
+429,Walking,0 days 02:08:59,2024-02-15,sport
+430,Sleeping,0 days 01:50:11,2024-01-21,work
+431,Cycling,0 days 02:05:45,2022-12-25,leisure
+432,Walking,0 days 01:44:32,2024-05-09,sleep
+433,Yoga,0 days 02:15:49,2024-08-23,sport
+434,Running,0 days 02:13:31,2023-11-17,sleep
+435,Swimming,0 days 02:27:25,2022-03-25,leisure
+436,Cycling,0 days 02:19:35,2024-10-26,leisure
+437,Running,0 days 01:18:18,2021-04-22,sport
+438,Running,0 days 01:32:26,2024-09-10,leisure
+439,Working on project,0 days 02:27:42,2022-10-14,sport
+440,Swimming,0 days 03:48:20,2024-11-17,sleep
+441,Swimming,0 days 02:02:23,2020-12-03,sleep
+442,Swimming,0 days 01:18:42,2023-06-27,leisure
+443,Cooking,0 days 02:55:24,2024-06-21,sleep
+444,Reading,0 days 02:40:56,2021-11-11,leisure
+445,Jogging,0 days 02:16:44,2021-01-01,sleep
+446,Cycling,0 days 03:15:13,2023-05-06,sleep
+447,Sleeping,0 days 03:12:17,2023-09-26,sleep
+448,Yoga,0 days 02:08:55,2021-03-27,sleep
+449,Working on project,0 days 02:40:22,2021-12-01,leisure
+450,Jogging,0 days 03:31:47,2022-03-17,leisure
+451,Cycling,0 days 03:21:09,2024-05-08,leisure
+452,Guitar practice,0 days 03:38:02,2022-04-10,sport
+453,Yoga,0 days 03:39:03,2023-05-26,leisure
+454,Cooking,0 days 01:40:02,2022-11-11,work
+455,Walking,0 days 01:34:09,2021-09-15,sport
+456,Reading,0 days 01:08:20,2024-02-22,sleep
+457,Guitar practice,0 days 02:05:46,2020-05-23,work
+458,Cycling,0 days 01:40:51,2024-09-21,leisure
+459,Sleeping,0 days 02:59:57,2021-02-07,sport
+460,Meditation,0 days 01:33:26,2024-12-08,work
+461,Working on project,0 days 03:51:04,2024-07-13,work
+462,Working on project,0 days 01:48:37,2022-05-19,work
+463,Guitar practice,0 days 01:05:04,2020-05-22,sleep
+464,Meditation,0 days 01:25:55,2024-03-06,work
+465,Reading,0 days 03:41:01,2021-07-18,sleep
+466,Swimming,0 days 03:43:18,2024-06-06,sleep
+467,Reading,0 days 03:59:52,2020-04-01,work
+468,Jogging,0 days 03:03:50,2024-01-20,sleep
+469,Guitar practice,0 days 03:10:34,2020-06-10,leisure
+470,Meditation,0 days 02:47:15,2020-10-17,sport
+471,Sleeping,0 days 02:47:39,2020-06-01,leisure
+472,Cycling,0 days 02:13:20,2021-09-22,sport
+473,Jogging,0 days 03:11:44,2022-04-20,leisure
+474,Yoga,0 days 01:15:37,2020-04-15,sport
+475,Cooking,0 days 01:21:54,2020-12-16,sleep
+476,Reading,0 days 02:19:52,2024-11-22,work
+477,Swimming,0 days 03:50:22,2024-05-11,sleep
+478,Swimming,0 days 03:42:16,2023-07-10,sport
+479,Yoga,0 days 01:17:30,2020-01-14,work
+480,Sleeping,0 days 03:43:34,2024-12-27,leisure
+481,Swimming,0 days 01:52:54,2022-04-26,sport
+482,Guitar practice,0 days 01:01:54,2024-04-12,sport
+483,Running,0 days 01:00:15,2021-09-20,work
+484,Working on project,0 days 02:35:13,2022-08-20,sport
+485,Walking,0 days 03:03:45,2022-12-15,work
+486,Cycling,0 days 03:14:29,2023-08-26,sport
+487,Swimming,0 days 03:07:37,2023-09-02,sleep
+488,Working on project,0 days 03:53:37,2021-07-02,work
+489,Cooking,0 days 01:56:01,2024-01-17,leisure
+490,Yoga,0 days 02:46:19,2022-07-28,sport
+491,Walking,0 days 02:40:31,2024-07-09,leisure
+492,Swimming,0 days 02:13:07,2023-09-06,leisure
+493,Cycling,0 days 01:28:55,2020-08-27,sleep
+494,Yoga,0 days 03:25:33,2020-04-11,sport
+495,Reading,0 days 03:30:06,2023-07-23,sleep
+496,Swimming,0 days 03:30:35,2021-01-17,work
+497,Cooking,0 days 03:42:11,2023-07-08,leisure
+498,Walking,0 days 03:29:55,2020-07-27,sleep
+499,Reading,0 days 02:31:15,2023-10-16,sport
+500,Meditation,0 days 03:40:48,2024-04-24,work
